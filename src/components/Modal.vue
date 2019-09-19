@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-modal id="modal-1" title="Quiz App" ok-only @ok="refresh" ok-title="Refresh">
-      <p class="my-4">Count: {{numCorrect}}/{{numTotal}}</p>
+      <p class="my-4">You scored {{numCorrect}} out of {{numTotal}}</p>
     </b-modal>
   </div>
 </template>

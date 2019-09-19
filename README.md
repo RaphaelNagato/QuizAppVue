@@ -1,6 +1,6 @@
 # quiz-app
 
-Project not yet completed, still in development.
+Project completed, App already deployed at .
 
 ## Project setup
 
